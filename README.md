@@ -1,46 +1,49 @@
-# Awesome-Fleet-Maintenance-Software
+# Awesome Fleet Maintenance Software [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Top Fleet Maintenance Software Ecosystem
+> A curated directory of top **Fleet Maintenance Software (CMMS)**, **Fleet Management Systems (FMS)**, digital **DVIR inspection platforms**, and self-hosted **open-source vehicle tracking** solutions.
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Fleet-Maintenance-Software/pulls)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Last Updated](https://img.shields.io/badge/last_updated-August_2026-blue.svg)](https://github.com/ishandutta2007/Awesome-Fleet-Maintenance-Software)
 
-*Focused on Vehicle Preventive Maintenance, Work Orders, Inspections (DVIR), Parts Inventory, Fuel Tracking, Telematics Integration & Fleet CMMS*
+---
 
-**Last updated: August 2026**
+## 📌 Overview
 
+Fleet maintenance software (also known as Fleet CMMS or Enterprise Asset Management for vehicles) automates **preventive maintenance (PM) scheduling**, **work order management**, **digital Driver Vehicle Inspection Reports (DVIR)**, **parts inventory**, **fuel logging**, **warranty tracking**, and **telematics/OBD-II integration**.
 
+Whether you manage commercial trucking fleets, municipal transit, service vans, construction equipment, or personal vehicles, choosing between cloud-hosted SaaS platforms and self-hosted open-source software is critical for optimizing Total Cost of Ownership (TCO) and regulatory compliance (e.g., DOT & FMCSA).
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Fleet Maintenance**. These tools help organizations schedule preventive maintenance, manage work orders, perform driver inspections, track parts and costs, monitor vehicle health, and integrate with telematics for usage-based service.
+---
 
+## 📑 Table of Contents
 
+- [Key Features & Fleet Maintenance Keywords](#-key-features--fleet-maintenance-keywords)
+- [SaaS / Cloud-Hosted Fleet Maintenance Platforms](#-saas--cloud-hosted-fleet-maintenance-platforms)
+- [Open-Source & Self-Hosted Fleet Management Projects](#-open-source--self-hosted-fleet-management-projects)
+- [Software Selection Guide: SaaS vs. Open-Source](#-software-selection-guide-saas-vs-open-source)
+- [Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
+- [How to Contribute](#-how-to-contribute)
+- [Disclaimer](#-disclaimer)
 
-**Examples** include Fleetio, Whip Around, Samsara Maintenance, AUTOsist, Fiix Fleet, Fleet Complete, Verizon Connect Reveal, Simply Fleet, Maintenance Pro, and Chevin FleetWave (the category leaders).
+---
 
+## 🔍 Key Features & Fleet Maintenance Keywords
 
+- **Preventive Maintenance (PM) Scheduling**: Calendar-, mileage-, and engine-hour-based service reminders.
+- **Work Orders & Repair Shop Network**: Automated maintenance work orders, technician labor tracking, and billing.
+- **Electronic DVIR (eDVIR)**: DOT/FMCSA-compliant mobile pre-trip and post-trip vehicle walkaround inspections.
+- **Parts & Tire Inventory Management**: Stock tracking, reorder alerts, parts usage auditing, and supplier catalogs.
+- **Fuel & Expense Tracking**: Fuel card integrations (WEX, Comdata), IFTA fuel tax reporting, and cost-per-mile analysis.
+- **Telematics & Diagnostics (OBD-II / J1939)**: Real-time DTC fault codes, engine health, and GPS breadcrumbs.
 
-**Open-source emphasis**: Fully commercial-grade open-source fleet CMMS options are limited but growing. This section is expanded with the strongest available self-hosted fleet maintenance, vehicle tracking, and general CMMS projects that fleets can adapt for maintenance workflows.
+---
 
+## ☁️ SaaS / Cloud-Hosted Fleet Maintenance Platforms
 
+Commercial fleet maintenance software and Computerized Maintenance Management Systems (CMMS) offering out-of-the-box mobile apps, automated compliance workflows, and certified repair shop integrations.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| Platform | Description & Core Focus | Starting Pricing | Free Tier / Free Trial Limits |
 | :--- | :--- | :--- | :--- |
 | **[Fleetio](https://www.fleetio.com/)** | Leading fleet-native CMMS focused on maintenance workflows, work orders, parts inventory, fuel tracking, TCO analysis, and repair-shop network integrations. | Starts at **$4/vehicle/month** (Essential tier billed annually) or $5/vehicle/month (monthly billing); 5 vehicle minimum. | **14-day free trial** with full feature access and no credit card required. No permanent free tier. |
 | **[Whip Around](https://whiparound.com/)** | Inspection-first platform specializing in digital DVIRs, defect-to-work-order flows, and driver-led compliance for fleets of all sizes. | Paid plans start at **$5/asset/month** (Standard plan) or $9/asset/month (Pro plan). | **Free Forever plan** limited to 1 asset and 1 user. Also offers a **7-day free trial** of the Pro plan with no credit card required. |
@@ -53,116 +56,72 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Maintenance Pro / Fleet Maintenance Pro](https://www.fleetmaintenancepro.com/)** | Dedicated fleet maintenance software covering work orders, parts, and service history. | Cloud subscriptions start at **$24 to $30/user/month** (or one-time on-premise desktop purchase starting at $649 for Standard). | **30-day fully functional free trial** for all editions. No permanent free tier. |
 | **[Chevin FleetWave](https://www.chevinfleet.com/)** | Enterprise fleet management solution with strong maintenance, compliance, and operational modules. | Core plan starts at approximately **£5 (~$6.50)/vehicle/month** (ancillary non-vehicle equipment starting at ~£0.50/item/month). | **14-day free trial** available upon request via sales team setup. No permanent free tier. |
 
-
-
-## Open-Source GitHub Projects
-
-- **[Fleetms](https://github.com/jmnda-dev/fleetms)**  
-
-  Open-source fleet maintenance and management software for tracking vehicles, service history, fuel, and related operations.
-
-
-
-- **[Tracktor](https://github.com/javedh-dev/tracktor)**  
-
-  Self-hosted vehicle tracking and maintenance system for fuel logs, service history, insurance/compliance reminders, and multi-vehicle dashboards.
-
-
-
-- **[MotoMate](https://github.com/hawkinslabdev/motomate)**  
-
-  Self-hosted personal and small-fleet vehicle maintenance tracker for mileage, service history, spending, and reminders.
-
-
-
-- **[MyGarage](https://github.com/homelabforge/mygarage)**  
-
-  Self-hosted vehicle maintenance platform with VIN decoding, service records, fuel logging, reminders, and optional OBD/telemetry integration.
-
-
-
-- **[SuperCMMS / Open-Source CMMS](https://github.com/)**  
-
-  Open-source enterprise asset management and CMMS platforms that can be configured for vehicle fleets and work-order management.
-
-
-
-- **[SAMFMS](https://github.com/COS301-SE-2025/SAMFMS)**  
-
-  Modular open-source fleet management system with maintenance, location, trips, and driver/vehicle modules for small-to-medium fleets.
-
-
-
-- **[General open CMMS projects](https://github.com/)**  
-
-  Broader open-source computerized maintenance management systems (e.g., community forks and lighter CMMS tools) adaptable to fleet use cases.
-
-
-
-- **[OBD and telematics open tools](https://github.com/)**  
-
-  Libraries and apps for reading diagnostic trouble codes and vehicle data that can feed maintenance systems.
-
-
-
-- **[Fuel and expense loggers](https://github.com/)**  
-
-  Lightweight open-source tools for tracking fuel, costs, and basic service intervals.
-
-
-
-- **[Inspection and checklist frameworks](https://github.com/)**  
-
-  Open form and checklist engines that can be customized for DVIR-style digital inspections.
-
-
-
-### Additional Strong Open-Source Options
-
-- Self-hosted inventory systems for parts and tires.
-
-- Custom work-order workflows built on open low-code or ERP platforms (e.g., Odoo maintenance modules).
-
-- Integration scripts connecting open telematics sources to maintenance databases.
-
-- Mobile-friendly PWAs for driver inspections and mechanic updates.
-
-- Reporting dashboards using Metabase or Grafana on top of open fleet data.
-
-
-
-**Frameworks for building custom systems**: Start with a self-hosted vehicle tracker (**Tracktor**, **MyGarage**, or **Fleetms**) for core records and reminders, layer an open CMMS for formal work orders and parts, add OBD/telematics feeds where available, and surface KPIs in an open BI tool. This combination gives fleets full data ownership, eliminates per-vehicle SaaS fees, and can be extended for compliance reporting or multi-shop workflows.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Fleet maintenance systems often support safety, regulatory (e.g., DVIR, FMCSA), and financial processes. Open-source solutions provide valuable cost and control advantages but require proper configuration, testing, backups, and validation against applicable regulations before production use.
-
-- Always ensure maintenance records meet insurance, warranty, and legal requirements in your jurisdiction.
-
-
+---
+
+## 🛠️ Open-Source & Self-Hosted Fleet Management Projects
+
+Self-hosted and open-source applications for privacy-conscious organizations, self-hosters, and businesses seeking full data ownership without recurring per-vehicle fees.
+
+| Project | Description | Tech Stack / Focus | Repository |
+| :--- | :--- | :--- | :--- |
+| **[Fleetms](https://github.com/jmnda-dev/fleetms)** | Open-source fleet maintenance and management software for tracking vehicles, service history, fuel, and related operations. | Full-stack fleet management | [GitHub](https://github.com/jmnda-dev/fleetms) |
+| **[Tracktor](https://github.com/javedh-dev/tracktor)** | Self-hosted vehicle tracking and maintenance system for fuel logs, service history, insurance/compliance reminders, and multi-vehicle dashboards. | Vehicle tracking & reminders | [GitHub](https://github.com/javedh-dev/tracktor) |
+| **[MotoMate](https://github.com/hawkinslabdev/motomate)** | Self-hosted personal and small-fleet vehicle maintenance tracker for mileage, service history, spending, and reminders. | Small fleet / Personal maintenance | [GitHub](https://github.com/hawkinslabdev/motomate) |
+| **[MyGarage](https://github.com/homelabforge/mygarage)** | Self-hosted vehicle maintenance platform with VIN decoding, service records, fuel logging, reminders, and optional OBD/telemetry integration. | VIN decoding, Homelab & OBD integration | [GitHub](https://github.com/homelabforge/mygarage) |
+| **[SAMFMS](https://github.com/COS301-SE-2025/SAMFMS)** | Modular open-source fleet management system with maintenance, location, trips, and driver/vehicle modules for small-to-medium fleets. | Modular architecture & trips | [GitHub](https://github.com/COS301-SE-2025/SAMFMS) |
+| **[SuperCMMS / Open-Source CMMS](https://github.com/)** | Open-source enterprise asset management and CMMS platforms adaptable to vehicle fleets and work-order management. | Work orders & asset management | [GitHub](https://github.com/) |
+
+### 🧩 Additional Open-Source Fleet Ecosystem Tools
+
+- **OBD-II and Telematics Open Tools**: Libraries (Python-OBD, Freematics) for reading diagnostic trouble codes (DTC) and CAN-bus telemetry.
+- **Fuel & Expense Loggers**: Lightweight tools for fuel economy, mpg/L-per-100km calculations, and cost analytics.
+- **Mobile PWA Inspections**: Responsive checklist frameworks adaptable for driver electronic DVIRs.
+- **ERP & Low-Code Integrations**: Odoo Maintenance and ERPNext modules customized for vehicle fleets and workshop inventories.
+- **Fleet Analytics & Dashboards**: Open-source BI platforms like Metabase and Grafana connecting to MySQL/PostgreSQL fleet databases.
 
 ---
 
-**Made for fleet managers, shop supervisors, and operators seeking practical, affordable maintenance tools.**
+## ⚖️ Software Selection Guide: SaaS vs. Open-Source
 
-Let's make fleet maintenance more open, transparent, and under your control.
+| Evaluation Criteria | Commercial SaaS Fleet CMMS | Open-Source / Self-Hosted |
+| :--- | :--- | :--- |
+| **Upfront Cost** | Low (monthly/annual subscription) | Free software (requires server/hosting infrastructure) |
+| **Long-Term Cost** | Scales with fleet size ($2–$45+/vehicle/mo) | Predictable, fixed infrastructure costs |
+| **Deployment Time** | Instant setup with prebuilt mobile apps | Requires technical configuration & hosting setup |
+| **Compliance & DVIR** | Built-in DOT/FMCSA compliant workflows | Requires custom checklist configuration |
+| **Data Ownership** | Vendor-managed cloud | 100% self-hosted, sovereign data ownership |
+| **Shop Integrations** | Pre-integrated national repair networks | Custom API integrations required |
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### What is Fleet Maintenance Software?
+Fleet maintenance software (Fleet CMMS) is dedicated software designed to track vehicle service history, schedule preventive maintenance, monitor DTC fault codes, manage work orders and mechanics, track parts inventory, and ensure safety compliance.
+
+### What is the difference between Fleet Tracking (Telematics) and Fleet Maintenance (CMMS)?
+Fleet tracking (Telematics) focuses primarily on GPS location, real-time routing, driver behavior, and geofencing. Fleet Maintenance (CMMS) focuses on the physical health of assets—preventive maintenance intervals, parts replacement, mechanic labor, repair costs, and DVIR defect resolutions. Leading platforms integrate both.
+
+### Can open-source fleet software replace enterprise SaaS?
+For small to medium fleets, self-hosted solutions like **Fleetms**, **Tracktor**, or **MyGarage** combined with BI dashboards (Grafana/Metabase) provide robust service logging and reminders without recurring licensing fees. Enterprise fleets with outsourced repair billing and nationwide compliance needs often prefer commercial SaaS platforms.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions to keep this directory up-to-date and comprehensive are welcome!
+
+1. Fork this repository.
+2. Add or update entries in `README.md` maintaining accurate links, verified pricing, and feature details.
+3. Submit a Pull Request with a brief explanation of your change.
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a community-curated list intended for research and educational purposes.
+- Fleet maintenance systems often manage safety-critical and legally regulated records (DOT, FMCSA, DVIR). Ensure any chosen tool complies with your jurisdiction's commercial vehicle safety regulations.
+
+---
+
+<sub>**Keywords**: fleet maintenance software, fleet CMMS, vehicle preventive maintenance, DVIR inspection app, fleet management software, open source fleet management, self hosted vehicle maintenance tracker, work order management, telematics maintenance, fleet inventory management.</sub>
