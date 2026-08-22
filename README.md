@@ -119,7 +119,7 @@ For small to medium fleets, self-hosted solutions like **Fleetms**, **Tracktor**
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Fleet-Maintenance-Software&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Fleet-Maintenance-Software&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Fleet-Maintenance-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Fleet-Maintenance-Software&type=date&legend=top-left)
 
 ---
 
