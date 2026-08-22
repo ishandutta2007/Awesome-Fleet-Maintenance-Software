@@ -72,7 +72,7 @@ Commercial fleet maintenance software and Computerized Maintenance Management Sy
 
 Self-hosted and open-source applications for privacy-conscious organizations, self-hosters, and businesses seeking full data ownership without recurring per-vehicle fees. Sorted in descending order of GitHub stars.
 
-| Project | GitHub Stars | Description | Tech Stack / Focus |
+| Project | GitHub_Stars | Description | Tech Stack / Focus |
 | :--- | :--- | :--- | :--- |
 | **[Traccar](https://github.com/traccar/traccar)** | [![GitHub stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers) | 🛰️ Leading open-source GPS tracking and fleet telematics platform supporting 2000+ protocols, geofencing, trip reports, and maintenance alert hooks. | Java, Modern Web UI / Enterprise GPS Telematics |
 | **[LubeLogger](https://github.com/hargata/lubelog)** | [![GitHub stars](https://img.shields.io/github/stars/hargata/lubelog?style=social&color=white)](https://github.com/hargata/lubelog/stargazers) | 🛢️ Self-hosted web-based vehicle maintenance, fuel consumption, service records, and odometer tracker with multi-user and multi-currency support. | .NET Core, SQLite/PostgreSQL / Vehicle Maintenance & Fuel |
