@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Fleetio](https://www.fleetio.com/)**  
-
-  Leading fleet-native CMMS focused on maintenance workflows, work orders, parts inventory, fuel tracking, TCO analysis, and a large repair-shop network.
-
-
-
-- **[Whip Around](https://whiparound.com/)**  
-
-  Inspection-first platform specializing in digital DVIRs, defect-to-work-order flows, and driver-led compliance for fleets of all sizes.
-
-
-
-- **[Samsara Maintenance](https://www.samsara.com/)**  
-
-  Telematics-driven maintenance capabilities within the Samsara platform, using real-time vehicle diagnostics and fault codes to trigger service.
-
-
-
-- **[AUTOsist](https://www.autosist.com/)**  
-
-  Affordable and user-friendly fleet maintenance software popular with smaller fleets for work orders, scheduling, and basic tracking.
-
-
-
-- **[Fiix Fleet / Rockwell Fiix](https://fiixsoftware.com/)**  
-
-  CMMS platform with strong fleet and mixed-asset capabilities for preventive maintenance, work orders, and inventory.
-
-
-
-- **[Fleet Complete](https://www.fleetcomplete.com/)**  
-
-  Fleet management suite that includes maintenance scheduling, asset tracking, and operational tools.
-
-
-
-- **[Verizon Connect Reveal](https://www.verizonconnect.com/)**  
-
-  Telematics and fleet platform with maintenance features, diagnostics, and compliance tools.
-
-
-
-- **[Simply Fleet](https://www.simplyfleet.app/)**  
-
-  Straightforward fleet maintenance and management software aimed at ease of use and core tracking needs.
-
-
-
-- **[Maintenance Pro / Fleet Maintenance Pro](https://www.fleetmaintenancepro.com/)**  
-
-  Dedicated fleet maintenance software covering work orders, parts, and service history.
-
-
-
-- **[Chevin FleetWave](https://www.chevinfleet.com/)**  
-
-  Enterprise fleet management solution with strong maintenance, compliance, and operational modules.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Fleetio](https://www.fleetio.com/)** | Leading fleet-native CMMS focused on maintenance workflows, work orders, parts inventory, fuel tracking, TCO analysis, and repair-shop network integrations. | Starts at **$4/vehicle/month** (Essential tier billed annually) or $5/vehicle/month (monthly billing); 5 vehicle minimum. | **14-day free trial** with full feature access and no credit card required. No permanent free tier. |
+| **[Whip Around](https://whiparound.com/)** | Inspection-first platform specializing in digital DVIRs, defect-to-work-order flows, and driver-led compliance for fleets of all sizes. | Paid plans start at **$5/asset/month** (Standard plan) or $9/asset/month (Pro plan). | **Free Forever plan** limited to 1 asset and 1 user. Also offers a **7-day free trial** of the Pro plan with no credit card required. |
+| **[Samsara Maintenance](https://www.samsara.com/)** | Telematics-driven maintenance capabilities within the Samsara platform, using real-time vehicle diagnostics and fault codes to trigger service. | Software subscriptions typically start at **~$27 to $33/vehicle/month** (hardware units ~$99–$148/vehicle, standard 3-year contract). | **30-day free trial** available via sales consultation with return of hardware required within 30 days. No permanent free tier. |
+| **[AUTOsist](https://www.autosist.com/)** | Affordable and user-friendly fleet maintenance software popular with smaller fleets for work orders, scheduling, and basic tracking. | Starts at **$5/vehicle/month** (billed annually) or $6/vehicle/month (monthly); minimum billing threshold of $59/month (covers up to ~10 assets). | **14-day free trial** with full platform access and no credit card required. No permanent free tier. |
+| **[Fiix Fleet / Rockwell Fiix](https://fiixsoftware.com/)** | CMMS platform with strong fleet and mixed-asset capabilities for preventive maintenance, work orders, and inventory. | Paid plans start at **$45/user/month** (Basic tier billed annually) or $75/user/month (Professional tier). | **Free Forever plan** limited to 3 users and up to 25 active preventive maintenance (PM) tasks. Free product demos available for paid tiers. |
+| **[Fleet Complete](https://www.fleetcomplete.com/)** | Fleet management suite that includes maintenance scheduling, asset tracking, and operational tools. | Starts at approximately **$18 to $25/vehicle/month** (Basic tracker plan, typically with 36-month contract; hardware ~$80–$175). | **No self-serve free trial** or free tier. Evaluation via scheduled live product demonstration and customized pilot. |
+| **[Verizon Connect Reveal](https://www.verizonconnect.com/)** | Telematics and fleet platform with maintenance features, diagnostics, and compliance tools. | Starts at approximately **$20 to $45/vehicle/month** (typically standard 36-month contract). | **30-day risk-free trial** (available via consultation starting 5 days post-hardware shipment). No permanent free tier. |
+| **[Simply Fleet](https://www.simplyfleet.app/)** | Straightforward fleet maintenance and management software aimed at ease of use and core tracking needs. | Paid plans start at **$2/vehicle/month** ($20/vehicle/year for Essential) and $4/vehicle/month (Advanced). | **Free Forever plan** for fleets up to 5 vehicles (core features included). Also offers a **14-day free trial** of paid plans with no credit card required. |
+| **[Maintenance Pro / Fleet Maintenance Pro](https://www.fleetmaintenancepro.com/)** | Dedicated fleet maintenance software covering work orders, parts, and service history. | Cloud subscriptions start at **$24 to $30/user/month** (or one-time on-premise desktop purchase starting at $649 for Standard). | **30-day fully functional free trial** for all editions. No permanent free tier. |
+| **[Chevin FleetWave](https://www.chevinfleet.com/)** | Enterprise fleet management solution with strong maintenance, compliance, and operational modules. | Core plan starts at approximately **£5 (~$6.50)/vehicle/month** (ancillary non-vehicle equipment starting at ~£0.50/item/month). | **14-day free trial** available upon request via sales team setup. No permanent free tier. |
 
 
 
